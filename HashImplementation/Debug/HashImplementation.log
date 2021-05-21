@@ -1,0 +1,3 @@
+﻿  SHA256.cpp
+D:\workspace\learning_cpp\HashImplementation\SHA256.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+  HashImplementation.vcxproj -> D:\workspace\learning_cpp\HashImplementation\Debug\HashImplementation.exe
